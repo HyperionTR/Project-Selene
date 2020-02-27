@@ -1,2 +1,5 @@
 # Project-Selene
-Este es un proyecto de prueba, con C++, es un proyecto que hice para mi primer semestre de superior, así que.. por eso es muy básico. Lo he estado modificando, así que poco a poco, deja de ser el mismo que entregué esa vez...
+
+_UwU_
+
+Este proyecto sigue siendo Selene, pero con cambios para el archivo README.md
